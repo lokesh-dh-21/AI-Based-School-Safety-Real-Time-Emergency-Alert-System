@@ -1,0 +1,21 @@
+stream_step,incident_type,temperature_c,smoke_level,flame_detected,predicted_status,system_action
+1,Minor Smoke,45.42,52.49,0,Normal Alert,NORMAL ALERT: Inspection required
+2,Possible Gas Issue,42.38,40.53,0,High-Priority Emergency,HIGH-PRIORITY EMERGENCY: Immediate response required
+3,Possible Gas Issue,29.58,27.61,0,Normal Alert,NORMAL ALERT: Inspection required
+4,Critical Gas Leak,52.28,43.23,0,Normal Alert,NORMAL ALERT: Inspection required
+5,Severe Heat Emergency,54.51,71.5,0,High-Priority Emergency,HIGH-PRIORITY EMERGENCY: Immediate response required
+6,Fire Emergency,47.96,38.08,1,High-Priority Emergency,HIGH-PRIORITY EMERGENCY: Immediate response required
+7,Fire Emergency,51.01,71.21,0,High-Priority Emergency,HIGH-PRIORITY EMERGENCY: Immediate response required
+8,Safe / Normal Activity,32.01,30.27,0,Safe,CLEAR: Previous alert closed automatically
+9,Safe / Normal Activity,22.75,27.55,0,Safe,SAFE: No active alert
+10,Safe / Normal Activity,26.67,17.2,0,Safe,SAFE: No active alert
+11,Safe / Normal Activity,26.73,40.75,0,Normal Alert,NORMAL ALERT: Inspection required
+12,Crowd Disturbance,33.88,32.8,0,Normal Alert,NORMAL ALERT: Inspection required
+13,Safe / Normal Activity,26.66,15.1,0,Safe,CLEAR: Previous alert closed automatically
+14,Safe / Normal Activity,22.64,35.25,0,Safe,SAFE: No active alert
+15,Possible Gas Issue,36.68,31.63,0,Normal Alert,NORMAL ALERT: Inspection required
+16,Safe / Normal Activity,20.32,0.0,0,Safe,CLEAR: Previous alert closed automatically
+17,Safe / Normal Activity,26.42,26.64,0,Normal Alert,NORMAL ALERT: Inspection required
+18,Safe / Normal Activity,28.64,17.79,0,Safe,CLEAR: Previous alert closed automatically
+19,Safe / Normal Activity,36.19,34.74,0,Normal Alert,NORMAL ALERT: Inspection required
+20,Possible Gas Issue,35.06,52.27,0,Normal Alert,NORMAL ALERT: Inspection required
